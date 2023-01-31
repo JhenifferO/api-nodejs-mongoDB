@@ -1,9 +1,7 @@
-api-node-express
-Projeto feito com base no curso Node;js + Express da Alura
+Developed following the course "REST API with Node.js and MongoDB"
 
-- Padrão MVC
-- Rotas
-- Métodos
-- Requisições: GET, POST, PUT, DELETE
-- Associação dados entre coleções do banco
-- 
+- MVC architectural pattern
+- Routes
+- OOP
+- HTTP Requests: GET, POST, PUT, DELETE
+
