@@ -4,4 +4,5 @@ Developed following the course "REST API with Node.js and MongoDB"
 - Routes
 - OOP
 - HTTP Requests: GET, POST, PUT, DELETE
+- Express framworks
 
